@@ -7,3 +7,5 @@
 - Push them to GitHub 
 - Review the changes onlin 
 - Make some changes online 
+- Stage and comit changes online. 
+- Pull the changes from the remote _origin_ to out _local_ repository . 
